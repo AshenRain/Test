@@ -7,4 +7,4 @@ print("-"*40)
 #add some comments
 
 #redact something
-print("OKd")
+print("OKOK")

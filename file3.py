@@ -1,3 +1,5 @@
 print(lol)
 print(second)
 print(trird)
+print(second)
+print(second)
