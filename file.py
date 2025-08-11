@@ -5,3 +5,6 @@ print("gold"*3)
 print("-"*40)
 
 #add some comments
+
+#redact something
+print("OK")
